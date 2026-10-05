@@ -1,1 +1,4 @@
-
+{
+  "version": "1.1",
+  "update_file_url": "https://github.com/Dao-ngoc-chau/ETH-ESP32-ATS/raw/refs/heads/main/LoRa_ESP32C3_I2C.ino.bin"
+}
